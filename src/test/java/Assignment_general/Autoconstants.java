@@ -7,7 +7,8 @@ public interface Autoconstants
    String chromekey="webdriver.chrome.driver";
    String Chropath="/Volumes/C/Eclipse/selenium/cucumberjava/Test/Driver/chromedriver";
    String Filepath="//Volumes//C//Eclipse//selenium//cucumberjava//Test//data//sample.xlsx";
-String uploadfile="//Volumes//C//Eclipse//selenium//cucumberjava//Test//src//test//java//data//sample.txt";
+String uploadfile="//Volumes//C//Eclipse//selenium//cucumberjava//Test//data//sample.txt";
+
 	}
    
 }
